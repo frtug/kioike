@@ -19,6 +19,6 @@ using namespace std;
 			
 		}
 	}
-	cout<<"Ends at ";
+	cout<<"Ends hello Algo ";
 	return 0;
 }
