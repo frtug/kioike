@@ -11,7 +11,7 @@ using namespace std;
 		cin>>f;
 		for(i=0;i<t;i++){
 			if(f*f==t){
-			cout<<"Answer is"<<f;
+			cout<<"Answer is: "<<f;
 			break;
 		}
 		else{
